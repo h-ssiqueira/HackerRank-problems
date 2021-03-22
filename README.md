@@ -1,7 +1,7 @@
 # HackerRank problems
  Problems from [HackerRank](https://www.hackerrank.com/hss01).
 
-[C]()
+[C](https://github.com/h-ssiqueira/HackerRank-problems/blob/master/C)
 * [1D_Arrays_in_C](https://github.com/h-ssiqueira/HackerRank-problems/blob/master/C/1D_Arrays_in_C)
 * [Array_reversal](https://github.com/h-ssiqueira/HackerRank-problems/blob/master/C/Array_reversal)
 * [Bitwise_Operators](https://github.com/h-ssiqueira/HackerRank-problems/blob/master/C/Bitwise_Operators)
