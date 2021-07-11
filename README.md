@@ -1,7 +1,25 @@
 # HackerRank problems
- Problems from [HackerRank](https://www.hackerrank.com/hss01).
+![GitHub Repository Size](https://img.shields.io/github/repo-size/h-ssiqueira/HackerRank-problems?label=Repository%20Size&style=for-the-badge)
 
-[Algorithms](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Algorithms)
+Problems from:
+
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hss01)
+
+Using:
+
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+# Summary
+* [Algorithms](#Algorithms)
+* [C](#C)
+* [Java](#Java)
+* [Linux Shell](#Linux_Shell)
+* [SQL](#SQL)
+
+## [Algorithms](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Algorithms)
 * [A_Very_Big_Sum](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Algorithms/A_Very_Big_Sum)
 * [Apple_and_Orange](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Algorithms/Apple_and_Orange)
 * [Birthday_Cake_Candles](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Algorithms/Birthday_Cake_Candles)
@@ -22,7 +40,7 @@
 * [Sum_vs_XOR](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Algorithms/Sum_vs_XOR)
 * [Time_Conversion](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Algorithms/Time_Conversion)
 
-[C](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/C)
+## [C](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/C)
 * [1D_Arrays_in_C](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/C/1D_Arrays_in_C)
 * [Array_reversal](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/C/Array_reversal)
 * [Bitwise_Operators](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/C/Bitwise_Operators)
@@ -49,9 +67,11 @@
 * [Sum_of_Digits_of_a_Five_Digit_Number](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/C/Sum_of_Digits_of_a_Five_Digit_Number)
 * [Variadic_functions_in_C](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/C/Variadic_functions_in_C)
 
-[Java](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Java)
+## [Java](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Java)
 * [Abstract_Class](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Java/Abstract_Class)
+* [Big_Integer](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Java/Big_Integer)
 * [Datatypes](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Java/Datatypes)
+* [End_of_File](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Java/End_of_File)
 * [If-Else](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Java/If-Else)
 * [Inheritance_I](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Java/Inheritance_I)
 * [Inheritance_II](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Java/Inheritance_II)
@@ -69,13 +89,16 @@
 * [Stdin_and_Stdout_II](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Java/Stdin_and_Stdout_II)
 * [Welcome_to_Java](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Java/Welcome_to_Java)
 
-[Linux_Shell](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Linux_Shell)
+## [Linux_Shell](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Linux_Shell)
 * [Lets_Echo](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Linux_Shell/Lets_Echo)
 * [Looping_and_Skipping](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/Linux_Shell/Looping_and_Skipping)
 
-[SQL](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL)
+## [SQL](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL)
+* [Employee_salaries](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL/Employee_salaries)
+* [Higher_than_75_marks](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL/Higher_than_75_marks)
 * [Japanese_cities_attributes](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL/Japanese_cities_attributes)
 * [Japanese_cities_names](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL/Japanese_cities_names)
+* [Name_of_employees](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL/Name_of_employees)
 * [Revising_the_select_query_I](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL/Revising_the_select_query_I)
 * [Revising_the_select_query_II](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL/Revising_the_select_query_II)
 * [Select_all](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL/Select_all)
@@ -85,3 +108,10 @@
 * [Weather_observation_station_III](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL/Weather_observation_station_III)
 * [Weather_observation_station_IV](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL/Weather_observation_station_IV)
 * [Weather_observation_station_V](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL/Weather_observation_station_V)
+* [Weather_observation_station_VI](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL/Weather_observation_station_VI)
+* [Weather_observation_station_VII](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL/Weather_observation_station_VII)
+* [Weather_observation_station_VIII](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL/Weather_observation_station_VIII)
+* [Weather_observation_station_IX](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL/Weather_observation_station_IX)
+* [Weather_observation_station_X](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL/Weather_observation_station_X)
+* [Weather_observation_station_XI](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL/Weather_observation_station_XI)
+* [Weather_observation_station_XII](https://github.com/h-ssiqueira/HackerRank-problems/tree/main/SQL/Weather_observation_station_XII)
