@@ -1,8 +1,8 @@
 import java.util.*;
 public class Iterator{
 
-   static Iterator func(ArrayList mylist){
-      Iterator it=mylist.iterator();
+   static java.util.Iterator func(ArrayList mylist){
+      java.util.Iterator it=mylist.iterator();
       while(it.hasNext()){
          Object element = it.next();
          if(element instanceof String)//Hints: use instanceof operator
@@ -29,7 +29,7 @@ public class Iterator{
          mylist.add(sc.next());
       }
 
-      Iterator it=func(mylist);
+      java.util.Iterator it=func(mylist);
       while(it.hasNext()){
          Object element = it.next();
          System.out.println((String)element);
