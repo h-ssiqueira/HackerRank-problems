@@ -122,7 +122,9 @@ Using:
 
 ## [Java](Java)
 ### Big Number
+* [Bigdecimal](Java/pdf/java-bigdecimal.pdf) - [Solution](Java/Bigdecimal.java)
 * [Big_Integer](Java/pdf/java-biginteger.pdf) - [Solution](Java/Big_Integer.java)
+* [Primality_test](Java/pdf/java-primality-test.pdf) - [Solution](Java/Primality_test.java)
 
 ### Exception Handling
 * [Exception_handling](Java/pdf/java-exception-handling.pdf) - [Solution](Java/Exception_handling.java)
@@ -154,10 +156,14 @@ Using:
 * [Method_Overriding_II](Java/pdf/java-method-overriding-2-super-keyword.pdf) - [Solution](Java/Method_Overriding_II.java)
 
 ### Strings
+* [Anagrams](Java/pdf/java-anagrams.pdf) - [Solution](Java/Anagrams.java)
+* [Pattern_syntax_checker](Java/pdf/pattern-syntax-checker.pdf) - [Solution](Java/Pattern_syntax_checker.java)
+* [Regex](Java/pdf/java-regex.pdf) - [Solution](Java/Regex.java)
+* [String_compare](Java/pdf/java-string_compare.pdf) - [Solution](Java/String_compare.java)
 * [Strings_introduction](Java/pdf/java-strings-introduction.pdf) - [Solution](Java/Strings_introduction.java)
 * [String_reverse](Java/pdf/java-string-reverse.pdf) - [Solution](Java/String_reverse.java)
+* [String_tokens](Java/pdf/java-string-tokens.pdf) - [Solution](Java/String_tokens.java)
 * [Substring](Java/pdf/valid-username-checker.pdf) - [Solution](Java/Substring.java)
-* [Regex](Java/pdf/java-regex.pdf) - [Solution](Java/Regex.java)
 * [Valid_username_regular_expression](Java/pdf/java-substring.pdf) - [Solution](Java/Valid_username_regular_expression.java)
 
 <!--####################################################################################-->
