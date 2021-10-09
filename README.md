@@ -189,6 +189,14 @@ Using:
 * [The_blunder](SQL/pdf/the-blunder.pdf) - [Solution](SQL/sql/The_blunder.sql)
 * [Top_earners](SQL/pdf/earnings-of-employees.pdf) - [Solution](SQL/sql/Top_earners.sql)
 * [Weather_observation_station_II](SQL/pdf/weather-observation-station-2.pdf) - [Solution](SQL/sql/Weather_observation_station_II.sql)
+* [Weather_observation_station_XIII](SQL/pdf/weather-observation-station-13.pdf) - [Solution](SQL/sql/Weather_observation_station_XIII.sql)
+* [Weather_observation_station_XIV](SQL/pdf/weather-observation-station-14.pdf) - [Solution](SQL/sql/Weather_observation_station_XIV.sql)
+* [Weather_observation_station_XV](SQL/pdf/weather-observation-station-15.pdf) - [Solution](SQL/sql/Weather_observation_station_XV.sql)
+* [Weather_observation_station_XVI](SQL/pdf/weather-observation-station-16.pdf) - [Solution](SQL/sql/Weather_observation_station_XVI.sql)
+* [Weather_observation_station_XVII](SQL/pdf/weather-observation-station-17.pdf) - [Solution](SQL/sql/Weather_observation_station_XVII.sql)
+* [Weather_observation_station_XVIII](SQL/pdf/weather-observation-station-18.pdf) - [Solution](SQL/sql/Weather_observation_station_XVIII.sql)
+* [Weather_observation_station_XIX](SQL/pdf/weather-observation-station-19.pdf) - [Solution](SQL/sql/Weather_observation_station_XIX.sql)
+* [Weather_observation_station_XX](SQL/pdf/weather-observation-station-20.pdf) - [Solution](SQL/sql/Weather_observation_station_XX.sql)
 
 ### Basic Join
 * [African_cities](SQL/pdf/african-cities.pdf) - [Solution](SQL/sql/African_cities.sql)

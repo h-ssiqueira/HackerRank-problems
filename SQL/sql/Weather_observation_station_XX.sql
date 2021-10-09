@@ -1,0 +1,1 @@
+select round(STAT.LAT_N,4) from STATION as STAT where (select count(LAT_N) from station where STAT.LAT_N < LAT_N) = (select count(LAT_N) from station where STAT.LAT_N > LAT_N);
