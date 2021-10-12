@@ -11,6 +11,7 @@ Using:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 # Summary
 * [Algorithms](#Algorithms)
@@ -34,6 +35,8 @@ Using:
     * [Strings](#Strings)
 * [Linux Shell](#Linux_Shell)
     * [Bash](#Bash)
+* [Python](#Python)
+    * [Introduction](#Introduction)
 * [SQL](#SQL)
     * [Advanced Select](#Advanced-Select)
     * [Aggregation](#Aggregation)
@@ -172,6 +175,18 @@ Using:
 ### Bash
 * [Lets_Echo](Linux_Shell/pdf/bash-tutorials-lets-echo.pdf) - [Solution](Linux_Shell/bash/Lets_Echo.bash)
 * [Looping_and_Skipping](Linux_Shell/pdf/bash-tutorials---looping-and-skipping.pdf) - [Solution](Linux_Shell/bash/Looping_and_Skipping.bash)
+
+<!--####################################################################################-->
+
+## [Python](Python)
+### Introduction
+* [Arithmetic_operator](Python/pdf/python-arithmetic-operators.pdf) - [Solution](Python/python/)
+* [Division](Python/pdf/python-division.pdf) - [Solution](Python/python/Division.py)
+* [If_else](Python/pdf/py-if-else.pdf) - [Solution](Python/python/If_else.py)
+* [Loops](Python/pdf/python-loops.pdf) - [Solution](Python/python/Loops.py)
+* [Print_function](Python/pdf/python-print.pdf) - [Solution](Python/python/Print_function.py)
+* [Say_hello_world](Python/pdf/py-hello-world.pdf) - [Solution](Python/python/Say_hello_world.py)
+* [Write_a_function](Python/pdf/write-a-function.pdf) - [Solution](Python/python/Write_a_function.py)
 
 <!--####################################################################################-->
 
