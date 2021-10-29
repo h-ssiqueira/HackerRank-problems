@@ -188,6 +188,15 @@ Using:
 * [Say_hello_world](Python/pdf/py-hello-world.pdf) - [Solution](Python/python/Say_hello_world.py)
 * [Write_a_function](Python/pdf/write-a-function.pdf) - [Solution](Python/python/Write_a_function.py)
 
+### Math
+* [Polar_coordinates](Python/pdf/write-a-function.pdf) - [Solution](Python/python/Polar_coordinates.py)
+
+### String
+* [Mutations](Python/pdf/python-mutations.pdf) - [Solution](Python/python/Mutations.py)
+* [String_split_and_join](Python/pdf/python-string-split-and-join.pdf) - [Solution](Python/python/String_split_and_join.py)
+* [Swap_case](Python/pdf/swap-case.pdf) - [Solution](Python/python/Swap_case.py)
+* [Whats_your_name](Python/pdf/whats-your-name.pdf) - [Solution](Python/python/Whats_your_name.py)
+
 <!--####################################################################################-->
 
 ## [SQL](SQL)
