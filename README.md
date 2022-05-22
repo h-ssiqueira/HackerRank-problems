@@ -28,6 +28,7 @@ Using:
     * [Arrays](#Arrays)
     * [Linked Lists](#Linked-Lists)
 * [Java](#Java)
+    * [Advanced](#Advanced)
     * [Big Number](#Big-Number)
     * [Exception Handling](#Exception-Handling)
     * [Introduction](#Introduction)
@@ -124,50 +125,57 @@ Using:
 <!--####################################################################################-->
 
 ## [Java](Java)
+### Advanced
+* [Factory_pattern](Java/pdf/java-factory.pdf) - [Solution](Java/java/Factory_pattern.java)
+
 ### Big Number
-* [Bigdecimal](Java/pdf/java-bigdecimal.pdf) - [Solution](Java/Bigdecimal.java)
-* [Big_Integer](Java/pdf/java-biginteger.pdf) - [Solution](Java/Big_Integer.java)
-* [Primality_test](Java/pdf/java-primality-test.pdf) - [Solution](Java/Primality_test.java)
+* [Bigdecimal](Java/pdf/java-bigdecimal.pdf) - [Solution](Java/java/Bigdecimal.java)
+* [Big_Integer](Java/pdf/java-biginteger.pdf) - [Solution](Java/java/Big_Integer.java)
+* [Primality_test](Java/pdf/java-primality-test.pdf) - [Solution](Java/java/Primality_test.java)
+
+### Data Structures
+* [Array_1D](Java/pdf/java-1d-array-introduction.pdf) - [Solution](Java/java/Array_1D.java)
+* [Generics](Java/pdf/java-generics.pdf) - [Solution](Java/java/Generics.java)
 
 ### Exception Handling
-* [Exception_handling](Java/pdf/java-exception-handling.pdf) - [Solution](Java/Exception_handling.java)
-* [Exception_handling_try_catch](Java/pdf/java-exception-handling-try-catch.pdf) - [Solution](Java/Exception_handling_try_catch.java)
+* [Exception_handling](Java/pdf/java-exception-handling.pdf) - [Solution](Java/java/Exception_handling.java)
+* [Exception_handling_try_catch](Java/pdf/java-exception-handling-try-catch.pdf) - [Solution](Java/java/Exception_handling_try_catch.java)
 
 ### Introduction
-* [Currency_formatter](Java/pdf/java-currency-formatter.pdf) - [Solution](Java/Currency_formatter.java)
-* [Datatypes](Java/pdf/java-datatypes.pdf) - [Solution](Java/Datatypes.java)
-* [Date_and_time](Java/pdf/java-date-and-time.pdf) - [Solution](Java/Date_and_time.java)
-* [End_of_File](Java/pdf/java-end-of-file.pdf) - [Solution](Java/End_of_File.java)
-* [If-Else](Java/pdf/java-if-else.pdf) - [Solution](Java/If-Else.java)
-* [Int_to_String](Java/pdf/java-int-to-string.pdf) - [Solution](Java/Int_to_String.java)
-* [Loops_I](Java/pdf/java-loops.pdf) - [Solution](Java/Loops_I.java)
-* [Loops_II](Java/pdf/java-loops-i.pdf) - [Solution](Java/Loops_II.java)
-* [Output_Formatting](Java/pdf/java-output-formatting.pdf) - [Solution](Java/Output_Formatting.java)
-* [Static_Initializer_Block](Java/pdf/java-static-initializer-block.pdf) - [Solution](Java/Static_Initializer_Block.java)
-* [Stdin_and_Stdout_I](Java/pdf/java-stdin-stdout.pdf) - [Solution](Java/Stdin_and_Stdout_I.java)
-* [Stdin_and_Stdout_II](Java/pdf/java-stdin-and-stdout-1.pdf) - [Solution](Java/Stdin_and_Stdout_II.java)
-* [Welcome_to_Java](Java/pdf/welcome-to-java.pdf) - [Solution](Java/Welcome_to_Java.java)
+* [Currency_formatter](Java/pdf/java-currency-formatter.pdf) - [Solution](Java/java/Currency_formatter.java)
+* [Datatypes](Java/pdf/java-datatypes.pdf) - [Solution](Java/java/Datatypes.java)
+* [Date_and_time](Java/pdf/java-date-and-time.pdf) - [Solution](Java/java/Date_and_time.java)
+* [End_of_File](Java/pdf/java-end-of-file.pdf) - [Solution](Java/java/End_of_File.java)
+* [If-Else](Java/pdf/java-if-else.pdf) - [Solution](Java/java/If-Else.java)
+* [Int_to_String](Java/pdf/java-int-to-string.pdf) - [Solution](Java/java/Int_to_String.java)
+* [Loops_I](Java/pdf/java-loops.pdf) - [Solution](Java/java/Loops_I.java)
+* [Loops_II](Java/pdf/java-loops-i.pdf) - [Solution](Java/java/Loops_II.java)
+* [Output_Formatting](Java/pdf/java-output-formatting.pdf) - [Solution](Java/java/Output_Formatting.java)
+* [Static_Initializer_Block](Java/pdf/java-static-initializer-block.pdf) - [Solution](Java/java/Static_Initializer_Block.java)
+* [Stdin_and_Stdout_I](Java/pdf/java-stdin-stdout.pdf) - [Solution](Java/java/Stdin_and_Stdout_I.java)
+* [Stdin_and_Stdout_II](Java/pdf/java-stdin-and-stdout-1.pdf) - [Solution](Java/java/Stdin_and_Stdout_II.java)
+* [Welcome_to_Java](Java/pdf/welcome-to-java.pdf) - [Solution](Java/java/Welcome_to_Java.java)
 
 ### Object Oriented Programming
-* [Abstract_Class](Java/pdf/java-abstract-class.pdf) - [Solution](Java/Abstract_Class.java)
-* [Inheritance_I](Java/pdf/java-inheritance-1.pdf) - [Solution](Java/Inheritance_I.java)
-* [Inheritance_II](Java/pdf/java-inheritance-2.pdf) - [Solution](Java/Inheritance_II.java)
-* [Instanceof_Keyword](Java/pdf/java-instanceof-keyword.pdf) - [Solution](Java/Instanceof_Keyword.java)
-* [Interface](Java/pdf/java-interface.pdf) - [Solution](Java/Interface.java)
-* [Iterator](Java/pdf/java-iterator.pdf) - [Solution](Java/Iterator.java)
-* [Method_Overriding_I](Java/pdf/java-method-overriding.pdf) - [Solution](Java/Method_Overriding_I.java)
-* [Method_Overriding_II](Java/pdf/java-method-overriding-2-super-keyword.pdf) - [Solution](Java/Method_Overriding_II.java)
+* [Abstract_Class](Java/pdf/java-abstract-class.pdf) - [Solution](Java/java/Abstract_Class.java)
+* [Inheritance_I](Java/pdf/java-inheritance-1.pdf) - [Solution](Java/java/Inheritance_I.java)
+* [Inheritance_II](Java/pdf/java-inheritance-2.pdf) - [Solution](Java/java/Inheritance_II.java)
+* [Instanceof_Keyword](Java/pdf/java-instanceof-keyword.pdf) - [Solution](Java/java/Instanceof_Keyword.java)
+* [Interface](Java/pdf/java-interface.pdf) - [Solution](Java/java/Interface.java)
+* [Iterator](Java/pdf/java-iterator.pdf) - [Solution](Java/java/Iterator.java)
+* [Method_Overriding_I](Java/pdf/java-method-overriding.pdf) - [Solution](Java/java/Method_Overriding_I.java)
+* [Method_Overriding_II](Java/pdf/java-method-overriding-2-super-keyword.pdf) - [Solution](Java/java/Method_Overriding_II.java)
 
 ### Strings
-* [Anagrams](Java/pdf/java-anagrams.pdf) - [Solution](Java/Anagrams.java)
-* [Pattern_syntax_checker](Java/pdf/pattern-syntax-checker.pdf) - [Solution](Java/Pattern_syntax_checker.java)
-* [Regex](Java/pdf/java-regex.pdf) - [Solution](Java/Regex.java)
-* [String_compare](Java/pdf/java-string_compare.pdf) - [Solution](Java/String_compare.java)
-* [Strings_introduction](Java/pdf/java-strings-introduction.pdf) - [Solution](Java/Strings_introduction.java)
-* [String_reverse](Java/pdf/java-string-reverse.pdf) - [Solution](Java/String_reverse.java)
-* [String_tokens](Java/pdf/java-string-tokens.pdf) - [Solution](Java/String_tokens.java)
-* [Substring](Java/pdf/valid-username-checker.pdf) - [Solution](Java/Substring.java)
-* [Valid_username_regular_expression](Java/pdf/java-substring.pdf) - [Solution](Java/Valid_username_regular_expression.java)
+* [Anagrams](Java/pdf/java-anagrams.pdf) - [Solution](Java/java/Anagrams.java)
+* [Pattern_syntax_checker](Java/pdf/pattern-syntax-checker.pdf) - [Solution](Java/java/Pattern_syntax_checker.java)
+* [Regex](Java/pdf/java-regex.pdf) - [Solution](Java/java/Regex.java)
+* [String_compare](Java/pdf/java-string_compare.pdf) - [Solution](/java/String_compare.java)
+* [Strings_introduction](Java/pdf/java-strings-introduction.pdf) - [Solution](Java/java/Strings_introduction.java)
+* [String_reverse](Java/pdf/java-string-reverse.pdf) - [Solution](Java/java/String_reverse.java)
+* [String_tokens](Java/pdf/java-string-tokens.pdf) - [Solution](Java/java/String_tokens.java)
+* [Substring](Java/pdf/valid-username-checker.pdf) - [Solution](Java/java/Substring.java)
+* [Valid_username_regular_expression](Java/pdf/java-substring.pdf) - [Solution](Java/java/Valid_username_regular_expression.java)
 
 <!--####################################################################################-->
 
