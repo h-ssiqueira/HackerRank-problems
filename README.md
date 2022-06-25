@@ -39,8 +39,10 @@ Using:
 * [Python](#Python)
     * [Introduction](#Introduction)
 * [SQL](#SQL)
+    * [Advanced Join](#Advanced-Join)
     * [Advanced Select](#Advanced-Select)
     * [Aggregation](#Aggregation)
+    * [Alternative Select](#Alternative-Select)
     * [Basic Join](#Basic-Join)
     * [Basic Select](#Basic-Select)
 
@@ -208,6 +210,10 @@ Using:
 <!--####################################################################################-->
 
 ## [SQL](SQL)
+### Advanced Join
+* [Placements](SQL/pdf/placements.pdf) - [Solution](SQL/sql/Placements.sql)
+* [Symmetric_Pairs](SQL/pdf/symmetric-pairs.pdf) - [Solution](SQL/sql/Symmetric_Pairs.sql)
+
 ### Advanced Select
 * [Type_of_triangle](SQL/pdf/what-type-of-triangle.pdf) - [Solution](SQL/sql/Type_of_triangle.sql)
 
@@ -230,9 +236,14 @@ Using:
 * [Weather_observation_station_XIX](SQL/pdf/weather-observation-station-19.pdf) - [Solution](SQL/sql/Weather_observation_station_XIX.sql)
 * [Weather_observation_station_XX](SQL/pdf/weather-observation-station-20.pdf) - [Solution](SQL/sql/Weather_observation_station_XX.sql)
 
+### Alternative Select
+* [Draw_the_Triangle1](SQL/pdf/draw-the-triangle-1.pdf) - [Solution](SQL/sql/Draw_the_Triangle1.sql)
+* [Draw_the_Triangle2](SQL/pdf/draw-the-triangle-2.pdf) - [Solution](SQL/sql/Draw_the_Triangle2.sql)
+
 ### Basic Join
 * [African_cities](SQL/pdf/african-cities.pdf) - [Solution](SQL/sql/African_cities.sql)
 * [Average_population_of_each_continent](SQL/pdf/average-population-of-each-continent.pdf) - [Solution](SQL/sql/Average_population_of_each_continent.sql)
+* [Contest_Leaderboard](SQL/pdf/contest-leaderboard.pdf) - [Solution](SQL/sql/Contest_Leaderboard.sql)
 * [Population_census](SQL/pdf/asian-population.pdf) - [Solution](SQL/sql/Population_census.sql)
 
 ### Basic Select
