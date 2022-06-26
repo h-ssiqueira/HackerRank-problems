@@ -128,6 +128,7 @@ Using:
 
 ## [Java](Java)
 ### Advanced
+* [Can_You_Access](Java/pdf/can-you-access.pdf) - [Solution](Java/java/Can_You_Access.java)
 * [Factory_pattern](Java/pdf/java-factory.pdf) - [Solution](Java/java/Factory_pattern.java)
 
 ### Big Number
@@ -243,8 +244,12 @@ Using:
 ### Basic Join
 * [African_cities](SQL/pdf/african-cities.pdf) - [Solution](SQL/sql/African_cities.sql)
 * [Average_population_of_each_continent](SQL/pdf/average-population-of-each-continent.pdf) - [Solution](SQL/sql/Average_population_of_each_continent.sql)
+* [Challenges](SQL/pdf/challenges.pdf) - [Solution](SQL/sql/Challenges.sql)
 * [Contest_Leaderboard](SQL/pdf/contest-leaderboard.pdf) - [Solution](SQL/sql/Contest_Leaderboard.sql)
+* [Ollivanders_Inventory](SQL/pdf/harry-potter-and-wands.pdf) - [Solution](SQL/sql/Ollivanders_Inventory.sql)
 * [Population_census](SQL/pdf/asian-population.pdf) - [Solution](SQL/sql/Population_census.sql)
+* [The_Competitors](SQL/pdf/full-score.pdf) - [Solution](SQL/sql/Top_Competitors.sql)
+* [The_Report](SQL/pdf/the-report.pdf) - [Solution](SQL/sql/The_Report.sql)
 
 ### Basic Select
 * [Employee_salaries](SQL/pdf/salary-of-employees.pdf) - [Solution](SQL/sql/Employee_salaries.sql)
