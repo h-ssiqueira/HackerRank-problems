@@ -38,6 +38,8 @@ Using:
     * [Bash](#Bash)
 * [Python](#Python)
     * [Introduction](#Introduction)
+* [Regex](#Regex)
+    * [Introduction](#Introduction)
 * [SQL](#SQL)
     * [Advanced Join](#Advanced-Join)
     * [Advanced Select](#Advanced-Select)
@@ -207,6 +209,19 @@ Using:
 * [String_split_and_join](Python/pdf/python-string-split-and-join.pdf) - [Solution](Python/python/String_split_and_join.py)
 * [Swap_case](Python/pdf/swap-case.pdf) - [Solution](Python/python/Swap_case.py)
 * [Whats_your_name](Python/pdf/whats-your-name.pdf) - [Solution](Python/python/Whats_your_name.py)
+
+<!--####################################################################################-->
+
+## [Regex](Regex)
+### Introduction
+Problem | Java | Javascript | Python
+:---: | :---: | :---: | :---:
+[Matching_Anything_But_a_Newline](Regex/pdf/matching-anything-but-new-line.pdf) | [Solution](Regex/java/Matching_Anything_But_a_Newline.java) | [Solution](Regex/javascript/Matching_Anything_But_a_Newline.js) | [Solution](Regex/python/Matching_Anything_But_a_Newline.py)
+[Matching_Digits_Non_Digits_Characters](Regex/pdf/matching-digits-non-digit-character.pdf) | [Solution](Regex/java/Matching_Digits_Non_Digits_Characters.java) | [Solution](Regex/javascript/Matching_Digits_Non_Digits_Characters.js) | [Solution](Regex/python/Matching_Digits_Non_Digits_Characters.py)
+[Matching_Specific_String](Regex/pdf/matching-specific-string.pdf) | [Solution](Regex/java/Matching_Specific_String.java) | [Solution](Regex/javascript/Matching_Specific_String.js) | [Solution](Regex/python/Matching_Specific_String.py)
+[Matching_Start_End](Regex/pdf/matching-start-end.pdf) | [Solution](Regex/java/Matching_Start_End.java) | [Solution](Regex/javascript/Matching_Start_End.js) | [Solution](Regex/python/Matching_Start_End.py)
+[Matching_Whitespace_Non_Whitespace_Character](Regex/pdf/matching-whitespace-non-whitespace-character.pdf) | [Solution](Regex/java/Matching_Whitespace_Non_Whitespace_Character.java) | [Solution](Regex/javascript/Matching_Whitespace_Non_Whitespace_Character.js) | [Solution](Regex/python/Matching_Whitespace_Non_Whitespace_Character.py)
+[Matching_Word_Non_Word_Character](Regex/pdf/matching-word-non-word.pdf) | [Solution](Regex/java/Matching_Word_Non_Word_Character.java) | [Solution](Regex/javascript/Matching_Word_Non_Word_Character.js) | [Solution](Regex/python/Matching_Word_Non_Word_Character.py)
 
 <!--####################################################################################-->
 
