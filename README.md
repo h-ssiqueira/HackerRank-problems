@@ -140,7 +140,12 @@ Using:
 
 ### Data Structures
 * [Array_1D](Java/pdf/java-1d-array-introduction.pdf) - [Solution](Java/java/Array_1D.java)
+* [Array_1D2](Java/pdf/java-1d-array.pdf) - [Solution](Java/java/Array_1D2.java)
+* [ArrayLists](Java/pdf/java-arraylist.pdf) - [Solution](Java/java/ArrayLists.java)
 * [Generics](Java/pdf/java-generics.pdf) - [Solution](Java/java/Generics.java)
+* [Hashsets](Java/pdf/java-hashset.pdf) - [Solution](Java/java/Hashsets.java)
+* [Lists](Java/pdf/java-list.pdf) - [Solution](Java/java/Lists.java)
+* [Subarray](Java/pdf/java-negative-subarray.pdf) - [Solution](Java/java/Subarray.java)
 
 ### Exception Handling
 * [Exception_handling](Java/pdf/java-exception-handling.pdf) - [Solution](Java/java/Exception_handling.java)
