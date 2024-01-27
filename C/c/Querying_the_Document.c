@@ -5,18 +5,22 @@
 #define MAX_CHARACTERS 1005
 #define MAX_PARAGRAPHS 5
 
+// word
 char* kth_word_in_mth_sentence_of_nth_paragraph(char**** document, int k, int m, int n) {
 
 }
 
+// setence - words separated by ' '. Last word does not end with space
 char** kth_sentence_in_mth_paragraph(char**** document, int k, int m) {
 
 }
 
+// paragraph - setences separated by '.'
 char*** kth_paragraph(char**** document, int k) {
 
 }
 
+// document - paragraphs separated by '\n', last paragraph does not end with line feed
 char**** get_document(char* text) {
 
 }
