@@ -6,20 +6,30 @@ ___
 ## Contents
 * [Introduction](#Introduction)
 * [Character Class](#Character-Class)
+* [Repetitions](#Repetitions)
 ___
 ### Introduction
 Problem | Java | Javascript | Python
 :---: | :---: | :---: | :---:
-[Matching_Anything_But_a_Newline](Regex/pdf/matching-anything-but-new-line.pdf) | [Solution](Regex/java/Matching_Anything_But_a_Newline.java) | [Solution](Regex/javascript/Matching_Anything_But_a_Newline.js) | [Solution](Regex/python/Matching_Anything_But_a_Newline.py)
-[Matching_Digits_Non_Digits_Characters](Regex/pdf/matching-digits-non-digit-character.pdf) | [Solution](Regex/java/Matching_Digits_Non_Digits_Characters.java) | [Solution](Regex/javascript/Matching_Digits_Non_Digits_Characters.js) | [Solution](Regex/python/Matching_Digits_Non_Digits_Characters.py)
-[Matching_Specific_String](Regex/pdf/matching-specific-string.pdf) | [Solution](Regex/java/Matching_Specific_String.java) | [Solution](Regex/javascript/Matching_Specific_String.js) | [Solution](Regex/python/Matching_Specific_String.py)
-[Matching_Start_End](Regex/pdf/matching-start-end.pdf) | [Solution](Regex/java/Matching_Start_End.java) | [Solution](Regex/javascript/Matching_Start_End.js) | [Solution](Regex/python/Matching_Start_End.py)
-[Matching_Whitespace_Non_Whitespace_Character](Regex/pdf/matching-whitespace-non-whitespace-character.pdf) | [Solution](Regex/java/Matching_Whitespace_Non_Whitespace_Character.java) | [Solution](Regex/javascript/Matching_Whitespace_Non_Whitespace_Character.js) | [Solution](Regex/python/Matching_Whitespace_Non_Whitespace_Character.py)
-[Matching_Word_Non_Word_Character](Regex/pdf/matching-word-non-word.pdf) | [Solution](Regex/java/Matching_Word_Non_Word_Character.java) | [Solution](Regex/javascript/Matching_Word_Non_Word_Character.js) | [Solution](Regex/python/Matching_Word_Non_Word_Character.py)
+[Matching_Anything_But_a_Newline](pdf/matching-anything-but-new-line.pdf) | [Solution](java/Matching_Anything_But_a_Newline.java) | [Solution](javascript/Matching_Anything_But_a_Newline.js) | [Solution](python/Matching_Anything_But_a_Newline.py)
+[Matching_Digits_Non_Digits_Characters](pdf/matching-digits-non-digit-character.pdf) | [Solution](java/Matching_Digits_Non_Digits_Characters.java) | [Solution](javascript/Matching_Digits_Non_Digits_Characters.js) | [Solution](python/Matching_Digits_Non_Digits_Characters.py)
+[Matching_Specific_String](pdf/matching-specific-string.pdf) | [Solution](java/Matching_Specific_String.java) | [Solution](javascript/Matching_Specific_String.js) | [Solution](python/Matching_Specific_String.py)
+[Matching_Start_End](pdf/matching-start-end.pdf) | [Solution](java/Matching_Start_End.java) | [Solution](javascript/Matching_Start_End.js) | [Solution](python/Matching_Start_End.py)
+[Matching_Whitespace_Non_Whitespace_Character](pdf/matching-whitespace-non-whitespace-character.pdf) | [Solution](java/Matching_Whitespace_Non_Whitespace_Character.java) | [Solution](javascript/Matching_Whitespace_Non_Whitespace_Character.js) | [Solution](python/Matching_Whitespace_Non_Whitespace_Character.py)
+[Matching_Word_Non_Word_Character](pdf/matching-word-non-word.pdf) | [Solution](java/Matching_Word_Non_Word_Character.java) | [Solution](javascript/Matching_Word_Non_Word_Character.js) | [Solution](python/Matching_Word_Non_Word_Character.py)
 ___
 ### Character Class
 Problem | Java | Javascript | Python
 :---: | :---: | :---: | :---:
-[Excluding_Specific_Characters](Regex/pdf/excluding-specific-characters.pdf) | [Solution](Regex/java/Excluding_Specific_Characters.java) | [Solution](Regex/javascript/Excluding_Specific_Characters.js) | [Solution](Regex/python/Excluding_Specific_Characters.py)
-[Matching_Character_Ranges](Regex/pdf/matching-range-of-characters.pdf) | [Solution](Regex/java/Matching_Character_Ranges.java) | [Solution](Regex/javascript/Matching_Character_Ranges.js) | [Solution](Regex/python/Matching_Character_Ranges.py)
-[Matching_Specific_Characters](Regex/pdf/matching-specific-characters.pdf) | [Solution](Regex/java/Matching_Specific_Characters.java) | [Solution](Regex/javascript/Matching_Specific_Characters.js) | [Solution](Regex/python/Matching_Specific_Characters.py)
+[Excluding_Specific_Characters](pdf/excluding-specific-characters.pdf) | [Solution](java/Excluding_Specific_Characters.java) | [Solution](javascript/Excluding_Specific_Characters.js) | [Solution](python/Excluding_Specific_Characters.py)
+[Matching_Character_Ranges](pdf/matching-range-of-characters.pdf) | [Solution](java/Matching_Character_Ranges.java) | [Solution](javascript/Matching_Character_Ranges.js) | [Solution](python/Matching_Character_Ranges.py)
+[Matching_Specific_Characters](pdf/matching-specific-characters.pdf) | [Solution](java/Matching_Specific_Characters.java) | [Solution](javascript/Matching_Specific_Characters.js) | [Solution](python/Matching_Specific_Characters.py)
+
+### Repetitions
+Problem | Java | Javascript | Python
+:---: | :---: | :---: | :---:
+[Matching_Ending_Items](pdf/matching-ending-items.pdf) | [Solution](java/Matching_Ending_Items.java) | [Solution](javascript/Matching_Ending_Items.js) | [Solution](python/Matching_Ending_Items.py)
+[Matching_One_Or_More_Repetitions](pdf/matching-one-or-more-repetitions.pdf) | [Solution](java/Matching_One_Or_More_Repetitions.java) | [Solution](javascript/Matching_One_Or_More_Repetitions.js) | [Solution](python/Matching_One_Or_More_Repetitions.py)
+[Matching_X_Repetitions](pdf/matching-x-repetitions.pdf) | [Solution](java/Matching_X_Repetitions.java) | [Solution](javascript/Matching_X_Repetitions.js) | [Solution](python/Matching_X_Repetitions.py)
+[Matching_X_Y_Repetitions](pdf/matching-x-y-repetitions.pdf) | [Solution](java/Matching_X_Y_Repetitions.java) | [Solution](javascript/Matching_X_Y_Repetitions.js) | [Solution](python/Matching_X_Y_Repetitions.py)
+[Matching_Zero_Or_More_Repetitions](pdf/matching-zero-or-more-repetitions.pdf) | [Solution](java/Matching_Zero_Or_More_Repetitions.java) | [Solution](javascript/Matching_Zero_Or_More_Repetitions.js) | [Solution](python/Matching_Zero_Or_More_Repetitions.py)
