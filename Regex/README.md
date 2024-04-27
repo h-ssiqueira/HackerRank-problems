@@ -7,6 +7,10 @@ ___
 * [Introduction](#Introduction)
 * [Character Class](#Character-Class)
 * [Repetitions](#Repetitions)
+* [Grouping and Capturing](#grouping-and-capturing)
+* [Backreferences](#backreferences)
+* [Assertions](#Assertions)
+* [Applications](#Applications)
 ___
 ### Introduction
 Problem | Java | Javascript | Python
@@ -24,7 +28,7 @@ Problem | Java | Javascript | Python
 [Excluding_Specific_Characters](pdf/excluding-specific-characters.pdf) | [Solution](java/Excluding_Specific_Characters.java) | [Solution](javascript/Excluding_Specific_Characters.js) | [Solution](python/Excluding_Specific_Characters.py)
 [Matching_Character_Ranges](pdf/matching-range-of-characters.pdf) | [Solution](java/Matching_Character_Ranges.java) | [Solution](javascript/Matching_Character_Ranges.js) | [Solution](python/Matching_Character_Ranges.py)
 [Matching_Specific_Characters](pdf/matching-specific-characters.pdf) | [Solution](java/Matching_Specific_Characters.java) | [Solution](javascript/Matching_Specific_Characters.js) | [Solution](python/Matching_Specific_Characters.py)
-
+___
 ### Repetitions
 Problem | Java | Javascript | Python
 :---: | :---: | :---: | :---:
@@ -33,3 +37,19 @@ Problem | Java | Javascript | Python
 [Matching_X_Repetitions](pdf/matching-x-repetitions.pdf) | [Solution](java/Matching_X_Repetitions.java) | [Solution](javascript/Matching_X_Repetitions.js) | [Solution](python/Matching_X_Repetitions.py)
 [Matching_X_Y_Repetitions](pdf/matching-x-y-repetitions.pdf) | [Solution](java/Matching_X_Y_Repetitions.java) | [Solution](javascript/Matching_X_Y_Repetitions.js) | [Solution](python/Matching_X_Y_Repetitions.py)
 [Matching_Zero_Or_More_Repetitions](pdf/matching-zero-or-more-repetitions.pdf) | [Solution](java/Matching_Zero_Or_More_Repetitions.java) | [Solution](javascript/Matching_Zero_Or_More_Repetitions.js) | [Solution](python/Matching_Zero_Or_More_Repetitions.py)
+___
+### Grouping and Capturing
+Problem | Java | Javascript | Python
+:---: | :---: | :---: | :---:
+[Alternative_Matching](pdf/alternative-matching.pdf) | [Solution](java/Alternative_Matching.java) | [Solution](javascript/Alternative_Matching.js) | [Solution](python/Alternative_Matching.py)
+[Capturing_Non_Capturing_Groups](pdf/capturing-non-capturing-groups.pdf) | [Solution](java/Capturing_Non_Capturing_Groups.java) | [Solution](javascript/Capturing_Non_Capturing_Groups.js) | [Solution](python/Capturing_Non_Capturing_Groups.py)
+[Matching_Word_Boundaries](pdf/matching-word-boundaries.pdf) | [Solution](java/Matching_Word_Boundaries.java) | [Solution](javascript/Matching_Word_Boundaries.js) | [Solution](python/Matching_Word_Boundaries.py)
+___
+### Backreferences
+___
+### Assertions
+___
+### Applications
+Problem | Java | Javascript | Python
+:---: | :---: | :---: | :---:
+[IP_Address_Validation](pdf/ip-address-validation.pdf) | [Solution](java/IP_Address_Validation.java) | [Solution](javascript/IP_Address_Validation.js) | [Solution](python/IP_Address_Validation.py)
