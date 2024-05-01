@@ -46,8 +46,20 @@ Problem | Java | Javascript | Python
 [Matching_Word_Boundaries](pdf/matching-word-boundaries.pdf) | [Solution](java/Matching_Word_Boundaries.java) | [Solution](javascript/Matching_Word_Boundaries.js) | [Solution](python/Matching_Word_Boundaries.py)
 ___
 ### Backreferences
+Problem | Java | Javascript | Python
+:---: | :---: | :---: | :---:
+[Backreferences_To_Failed_Groups](pdf/backreferences-to-failed-groups.pdf) | [Solution](java/Backreferences_To_Failed_Groups.java) | N/A | N/A
+[Branch_Reset_Groups](pdf/branch-reset-groups.pdf) | [Solution](java/Branch_Reset_Groups.java) | N/A | N/A
+[Forward_References](pdf/forward-references.pdf) | [Solution](java/Forward_References.java) | N/A | N/A
+[Mathcing_Same_Text_Again_Again](pdf/matching-same-text-again-again.pdf) | [Solution](java/Matching_Same_Text_Again_Again.java) | N/A | N/A
 ___
 ### Assertions
+Problem | Java | Javascript | Python
+:---: | :---: | :---: | :---:
+[Negative_Lookahead](pdf/negative-lookahead.pdf) | [Solution](java/Negative_Lookahead.java) | [Solution](javascript/Negative_Lookahead.js) | [Solution](python/Negative_Lookahead.py)
+[Negative_Lookbehind](pdf/negative-lookbehind.pdf) | [Solution](java/Negative_Lookbehind.java) | N/A | [Solution](python/Negative_Lookbehind.py)
+[Positive_Lookahead](pdf/positive-lookahead.pdf) | [Solution](java/Positive_Lookahead.java) | [Solution](javascript/Positive_Lookahead.js) | [Solution](python/Positive_Lookahead.py)
+[Positive_Lookbehind](pdf/positive-lookbehind.pdf) | [Solution](java/Positive_Lookbehind.java) | N/A | [Solution](python/Positive_Lookbehind.py)
 ___
 ### Applications
 Problem | Java | Javascript | Python
