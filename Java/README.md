@@ -13,6 +13,8 @@ ___
 * [Can_You_Access](pdf/can-you-access.pdf) - [Solution](java/Can_You_Access.java)
 * [Covariant_Return_Types](pdf/java-covariance.pdf) - [Solution](java/Covariant_Return_Types.java)
 * [Factory_pattern](pdf/java-factory.pdf) - [Solution](java/Factory_pattern.java)
+* [MD5](pdf/java-md5.pdf) - [Solution](java/MD5.java)
+* [SHA256](pdf/sha-256.pdf) - [Solution](java/SHA256.java)
 * [Varargs_Simple_Addition](pdf/simple-addition-varargs.pdf) - [Solution](java/Varargs_Simple_Addition.java)
 ___
 ### Big Number
@@ -66,6 +68,7 @@ ___
 ___
 ### Strings
 * [Anagrams](pdf/java-anagrams.pdf) - [Solution](java/Anagrams.java)
+* [Duplicate_words](pdf/duplicate-word.pdf) - [Solution](java/DuplicateWords.java)
 * [Pattern_syntax_checker](pdf/pattern-syntax-checker.pdf) - [Solution](java/Pattern_syntax_checker.java)
 * [Regex](pdf/java-regex.pdf) - [Solution](java/Regex.java)
 * [String_compare](pdf/java-string_compare.pdf) - [Solution](/java/String_compare.java)

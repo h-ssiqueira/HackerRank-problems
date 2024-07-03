@@ -51,7 +51,7 @@ Problem | Java | Javascript | Python
 [Backreferences_To_Failed_Groups](pdf/backreferences-to-failed-groups.pdf) | [Solution](java/Backreferences_To_Failed_Groups.java) | N/A | N/A
 [Branch_Reset_Groups](pdf/branch-reset-groups.pdf) | [Solution](java/Branch_Reset_Groups.java) | N/A | N/A
 [Forward_References](pdf/forward-references.pdf) | [Solution](java/Forward_References.java) | N/A | N/A
-[Mathcing_Same_Text_Again_Again](pdf/matching-same-text-again-again.pdf) | [Solution](java/Matching_Same_Text_Again_Again.java) | N/A | N/A
+[Matching_Same_Text_Again_Again](pdf/matching-same-text-again-again.pdf) | [Solution](java/Matching_Same_Text_Again_Again.java) | N/A | N/A
 ___
 ### Assertions
 Problem | Java | Javascript | Python
