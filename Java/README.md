@@ -10,10 +10,13 @@ ___
 * [Strings](#Strings)
 ___
 ### Advanced
+* [Annotations](pdf/java-annotations.pdf) - [Solution](java/Annotations.java)
 * [Can_You_Access](pdf/can-you-access.pdf) - [Solution](java/Can_You_Access.java)
 * [Covariant_Return_Types](pdf/java-covariance.pdf) - [Solution](java/Covariant_Return_Types.java)
 * [Factory_pattern](pdf/java-factory.pdf) - [Solution](java/Factory_pattern.java)
+* [Lambda_Expressions](pdf/java-lambda-expressions.pdf) - [Solution](java/Lambda_Expressions.java)
 * [MD5](pdf/java-md5.pdf) - [Solution](java/MD5.java)
+* [PrimeChecker](pdf/prime-checker.pdf) - [Solution](java/PrimeChecker.java)
 * [SHA256](pdf/sha-256.pdf) - [Solution](java/SHA256.java)
 * [Varargs_Simple_Addition](pdf/simple-addition-varargs.pdf) - [Solution](java/Varargs_Simple_Addition.java)
 ___
@@ -29,10 +32,12 @@ ___
 * [ArrayLists](pdf/java-arraylist.pdf) - [Solution](java/ArrayLists.java)
 * [BitSets](pdf/java-bitset.pdf) - [Solution](java/BitSets.java)
 * [Comparators](pdf/java-comparator.pdf) - [Solution](java/Comparators.java)
+* [Dequeue](pdf/java-dequeue.pdf) - [Solution](java/Dequeue.java)
 * [Generics](pdf/java-generics.pdf) - [Solution](java/Generics.java)
 * [Hashsets](pdf/java-hashset.pdf) - [Solution](java/Hashsets.java)
 * [Lists](pdf/java-list.pdf) - [Solution](java/Lists.java)
 * [Maps](pdf/phone-book.pdf) - [Solution](java/Maps.java)
+* [Priority_Queue](pdf/java-priority-queue.pdf) - [Solution](java/PrioritiesQueue.java)
 * [Sorting](pdf/java-sort.pdf) - [Solution](java/Sorting.java)
 * [Stack](pdf/java-stack.pdf) - [Solution](java/Stack.java)
 * [Subarray](pdf/java-negative-subarray.pdf) - [Solution](java/Subarray.java)
