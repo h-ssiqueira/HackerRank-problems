@@ -17,7 +17,9 @@ ___
 * [Lambda_Expressions](pdf/java-lambda-expressions.pdf) - [Solution](java/Lambda_Expressions.java)
 * [MD5](pdf/java-md5.pdf) - [Solution](java/MD5.java)
 * [PrimeChecker](pdf/prime-checker.pdf) - [Solution](java/PrimeChecker.java)
+* [Reflection](pdf/java-reflection-attributes.pdf) - [Solution](java/Reflection.java)
 * [SHA256](pdf/sha-256.pdf) - [Solution](java/SHA256.java)
+* [Singleton](pdf/java-singleton.pdf) - [Solution](java/Singleton.java)
 * [Varargs_Simple_Addition](pdf/simple-addition-varargs.pdf) - [Solution](java/Varargs_Simple_Addition.java)
 ___
 ### Big Number
